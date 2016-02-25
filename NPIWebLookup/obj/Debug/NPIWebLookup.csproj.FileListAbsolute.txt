@@ -1,0 +1,9 @@
+c:\users\renzee\documents\visual studio 2015\Projects\NPIWebLookup\NPIWebLookup\bin\Debug\NPIWebLookup.exe.config
+c:\users\renzee\documents\visual studio 2015\Projects\NPIWebLookup\NPIWebLookup\bin\Debug\NPIWebLookup.exe
+c:\users\renzee\documents\visual studio 2015\Projects\NPIWebLookup\NPIWebLookup\bin\Debug\NPIWebLookup.pdb
+c:\users\renzee\documents\visual studio 2015\Projects\NPIWebLookup\NPIWebLookup\obj\Debug\NPIWebLookup.csprojResolveAssemblyReference.cache
+c:\users\renzee\documents\visual studio 2015\Projects\NPIWebLookup\NPIWebLookup\obj\Debug\NPIWebLookup.exe
+c:\users\renzee\documents\visual studio 2015\Projects\NPIWebLookup\NPIWebLookup\obj\Debug\NPIWebLookup.pdb
+Z:\VM-Shared\NPIWebLookup\NPIWebLookup\bin\Debug\NPIWebLookup.exe.config
+Z:\VM-Shared\NPIWebLookup\NPIWebLookup\obj\Debug\NPIWebLookup.exe
+Z:\VM-Shared\NPIWebLookup\NPIWebLookup\obj\Debug\NPIWebLookup.pdb
