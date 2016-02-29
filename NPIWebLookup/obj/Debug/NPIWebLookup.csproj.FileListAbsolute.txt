@@ -7,3 +7,17 @@ c:\users\renzee\documents\visual studio 2015\Projects\NPIWebLookup\NPIWebLookup\
 Z:\VM-Shared\NPIWebLookup\NPIWebLookup\bin\Debug\NPIWebLookup.exe.config
 Z:\VM-Shared\NPIWebLookup\NPIWebLookup\obj\Debug\NPIWebLookup.exe
 Z:\VM-Shared\NPIWebLookup\NPIWebLookup\obj\Debug\NPIWebLookup.pdb
+Z:\VM-Shared\Repos\NPIWebLookup\NPIWebLookup\bin\Debug\NPIWebLookup.exe.config
+Z:\VM-Shared\Repos\NPIWebLookup\NPIWebLookup\obj\Debug\NPIWebLookup.exe
+Z:\VM-Shared\Repos\NPIWebLookup\NPIWebLookup\obj\Debug\NPIWebLookup.pdb
+Z:\VM-Shared\Repos\NPIWebLookup\NPIWebLookup\bin\Debug\NPIWebLookup.exe
+Z:\VM-Shared\Repos\NPIWebLookup\NPIWebLookup\bin\Debug\NPIWebLookup.pdb
+Z:\VM-Shared\Repos\NPIWebLookup\NPIWebLookup\bin\Debug\Newtonsoft.Json.dll
+Z:\VM-Shared\Repos\NPIWebLookup\NPIWebLookup\bin\Debug\System.Net.Http.Formatting.dll
+Z:\VM-Shared\Repos\NPIWebLookup\NPIWebLookup\bin\Debug\System.Web.Http.dll
+Z:\VM-Shared\Repos\NPIWebLookup\NPIWebLookup\bin\Debug\System.Web.Http.WebHost.dll
+Z:\VM-Shared\Repos\NPIWebLookup\NPIWebLookup\bin\Debug\Newtonsoft.Json.xml
+Z:\VM-Shared\Repos\NPIWebLookup\NPIWebLookup\bin\Debug\System.Net.Http.Formatting.xml
+Z:\VM-Shared\Repos\NPIWebLookup\NPIWebLookup\bin\Debug\System.Web.Http.xml
+Z:\VM-Shared\Repos\NPIWebLookup\NPIWebLookup\bin\Debug\System.Web.Http.WebHost.xml
+Z:\VM-Shared\Repos\NPIWebLookup\NPIWebLookup\obj\Debug\NPIWebLookup.csprojResolveAssemblyReference.cache
